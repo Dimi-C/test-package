@@ -1,3 +1,3 @@
 #lang racket
-(provide test-func)
+(provide all-from-out)
 (require "test-function.rkt")

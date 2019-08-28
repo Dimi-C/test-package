@@ -1,5 +1,5 @@
 #lang racket
-(provide test-func)
+(provide test)
 
-(define (test-func a b)
+(define (test a b)
   (+ a b))
