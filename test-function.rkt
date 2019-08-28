@@ -1,4 +1,4 @@
 #lang racket
-(provide test)
-(define (test a b)
+(provide test-func)
+(define (test-func a b)
   (+ a b))
